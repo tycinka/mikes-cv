@@ -4,7 +4,6 @@ const About = () => {
     return (
         <section className="section-wrapper">
             <div className="picture-wrapper">
-                <img src="" alt="profile picture" />
             </div>
             <article>
                 <h2>Get To Know Me!</h2>
