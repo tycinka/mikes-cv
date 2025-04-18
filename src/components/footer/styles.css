@@ -54,6 +54,10 @@ footer{
     height: 20px;
 }
 
+.social-container p:last-of-type{
+    display: none;
+}
+
 @media (max-width: 768px) {
     .social-container{
         display: flex;
@@ -73,5 +77,14 @@ footer{
 
     .social-wrapper img{
         height: 15px;
+    }
+
+    .social-container p:first-of-type{
+        visibility: hidden;
+    }
+
+    .social-container p:last-of-type{
+        display: block;
+        padding-top: 16px;
     }
 }

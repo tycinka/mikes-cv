@@ -2,7 +2,7 @@ import "./styles.css";
 import Button from "../button/Button";
 import email from "../../assets/email.svg";
 import phone from "../../assets/phone.svg";
-import linkedin from "../../assets/linkedin.svg";
+import instagram from "../../assets/ig.svg";
 import arrow from "../../assets/arrow.svg";
 
 const Footer = () => {
@@ -10,19 +10,20 @@ const Footer = () => {
         <footer>
             <div className="footer-wrapper">
                 <div>
-                    <h1>Lets's Create Easier<br /> World Together.</h1>
+                    <h1>Let's Create Easier<br /> World. Together.</h1>
                 </div>
                 <div className="button-wrapper">
-                    <Button>My GitHub <img className="icon" src={arrow} alt="icon"/></Button>
+                    <a href="https://github.com/tycinka" target="_blank" rel="noopener noreferrer" ><Button>My GitHub <img className="icon" src={arrow} alt="icon"/></Button></a>
                 </div>
             </div>
             <div className="social-container">
                 <p>©2025 Alena Mikešová</p>
                 <div className="social-wrapper">
-                    <a href="/">  <img src={phone} alt="phone" />Phone</a>
-                    <a href="/"> <img src={email} alt="email" /> Email</a>
-                    <a href="/"><img src={linkedin} alt="linkedin" />LinkedIn</a>
+                    <a href="tel:+420603567092">  <img src={phone} alt="phone" />Phone</a>
+                    <a href="mailto:alenkamikesova@icloud.com?subject=Hello&body=I wanted to reach out..."><img src={email} alt="email" /> Email</a>
+                    <a href="https://www.instagram.com/alena.mikesova/" target="_blank" rel="noopener noreferrer"><img src={instagram} alt="instagram" />Instagram</a>
                 </div>
+                <p>©2025 Alena Mikešová</p>
             </div>
         </footer>
     );

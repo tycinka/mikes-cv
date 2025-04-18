@@ -22,7 +22,7 @@ function App() {
         </section>
 
         <section id="works">
-          <Card title="Boliga.cz" year="2024" content="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tincidunt dictum erat ut fringilla. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum non tortor fermentum, varius diam nec, viverra est. Mauris nec odio suscipit, ultrices massa a, auctor ipsum. Phasellus aliquam vitae est id ultricies. In vulputate lacinia turpis ut consectetur. In ante lorem, interdum nec sem id, ornare." />
+          <Card link="https://www.boliga.cz/" title="Boliga.cz" year="2024" content="API built with Ruby on Rails, leveraging PostgreSQL for structured data management and advanced querying. Features include RESTful API design, authentication, background job handling, and modular architecture optimized for scalability, maintainability, and secure data flow." />
         </section>
       </main>
     </Main>

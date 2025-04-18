@@ -9,10 +9,13 @@ const About = () => {
             <article>
                 <h2>Get To Know Me!</h2>
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque iaculis posuere lorem sed dapibus.
-                    Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-                    Maecenas blandit diam ut metus rhoncus, non convallis metus mollis.
-                    Class aptent taciti sociosqu ad litora torquent per conubia.
+                    I'm a junior developer and an Applied Mathematics student
+                    with a passion for backend development and APIs. I love exploring
+                    how technology works behind the scenes and enjoy building robust
+                    server-side applications. My background in math has trained me to
+                    think analytically and solve problems logically. I bring that mindset
+                    into my coding journey. I'm always curious and eager to learn something
+                    new every day.
                 </p>
             </article>
         </section>
