@@ -1,17 +1,17 @@
-Hello, world! 👋
-About Me
+# Hello, world! 👋
 
-I'm a junior developer and an Applied Mathematics student with a passion for backend development and APIs. I love exploring how technology works behind the scenes and enjoy building robust server-side applications. My background in math has trained me to think analytically and solve problems logically. I bring that mindset into my coding journey. I'm always curious and eager to learn something new every day.
-Technologies & Tools
+## About Me
 
-    🌱 Ruby on Rails: Currently learning to build web applications and APIs with Rails.
+Hi! I'm a junior developer and a student of Applied Mathematics. I'm currently exploring backend development, especially APIs, and I enjoy learning how things work under the hood. My background in math helps me approach coding with a logical mindset, and I'm always trying to improve and pick up new skills.
 
-    🐘 PHP (Nette Framework): Experience building web projects using the Nette framework.
+## Technologies & Tools
 
-    🐍 Python: Familiar with using Python for scripting and data analysis tasks.
+🌱 **Ruby on Rails** – Currently learning how to build web apps and APIs.  
+🐘 **PHP (Nette Framework)** – Some experience creating simple web projects.  
+🐍 **Python** – Familiar with scripting and basic data analysis.
 
-Learning & Goals
+## Learning & Goals
 
-Right now, I'm diving deeper into Ruby on Rails to expand my backend development skills. In the near future, I plan to start sharing some of the projects I've been working on (stay tuned!). My goal is to keep growing as a developer, and I hope to eventually contribute to open-source projects and collaborate on exciting backend initiatives.
+I'm diving into Ruby on Rails and sharpening my backend skills through small projects. My goal is to grow fast and take on more complex challenges as I go.
 
-Thanks for visiting my profile! 😊
+Thanks for stopping by! 😊
