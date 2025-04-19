@@ -1,6 +1,6 @@
 {
-  "homepage": "https://tycinka.github.io/mikes-cv",
-  "name": "mikes-cv",
+  "homepage": "https://tycinka.github.io/tycinka",
+  "name": "tycinka",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
